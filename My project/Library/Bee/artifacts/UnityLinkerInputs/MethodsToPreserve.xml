@@ -1,0 +1,87 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="DeathManager">
+			<method name="GoToMainMenu"/>
+			<method name="GoToMainMenu"/>
+			<method name="GoToMainMenu"/>
+			<method name="GoToMainMenu"/>
+			<method name="GoToMainMenu"/>
+			<method name="GoToMainMenu"/>
+			<method name="RestartLevel"/>
+			<method name="RestartLevel"/>
+			<method name="RestartLevel"/>
+		</type>
+		<type fullname="ImageSwitcher">
+			<method name="ShowNext"/>
+			<method name="ShowNext"/>
+			<method name="ShowNext"/>
+			<method name="ShowNext"/>
+			<method name="ShowNext"/>
+			<method name="ShowNext"/>
+			<method name="ShowNext"/>
+			<method name="ShowNext"/>
+			<method name="ShowNext"/>
+			<method name="ShowNext"/>
+			<method name="ShowNext"/>
+			<method name="ShowNext"/>
+			<method name="ShowNext"/>
+		</type>
+		<type fullname="LevelCompManager">
+			<method name="LoadNextLevel"/>
+			<method name="LoadNextLevel"/>
+			<method name="LoadNextLevel"/>
+		</type>
+		<type fullname="MainMenu">
+			<method name="PlayGame"/>
+			<method name="QuitGame"/>
+			<method name="QuitGame"/>
+			<method name="QuitGame"/>
+			<method name="QuitGame"/>
+			<method name="QuitGame"/>
+			<method name="QuitGame"/>
+			<method name="QuitGame"/>
+			<method name="SwitchCredits"/>
+			<method name="SwitchLv1"/>
+			<method name="SwitchLv1"/>
+			<method name="SwitchLv1"/>
+			<method name="SwitchLv2"/>
+			<method name="SwitchLv2"/>
+			<method name="SwitchLv2"/>
+			<method name="SwitchLv3"/>
+			<method name="SwitchLv3"/>
+			<method name="SwitchLv3"/>
+			<method name="SwitchMainMenu"/>
+		</type>
+		<type fullname="MyPauseMenu">
+			<method name="ResumeGame"/>
+			<method name="ResumeGame"/>
+			<method name="ResumeGame"/>
+		</type>
+	</assembly>
+	<assembly fullname="Unity.RenderPipelines.Core.Runtime" ignoreIfMissing="1">
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerButton">
+			<method name="OnAction"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerIntField">
+			<method name="OnDecrement"/>
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+			<method name="OnIncrement"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerObjectPopupField">
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerPanel">
+			<method name="OnScrollbarClicked"/>
+			<method name="OnScrollbarClicked"/>
+			<method name="ResetDebugManager"/>
+		</type>
+		<type fullname="UnityEngine.Rendering.UI.DebugUIHandlerUIntField">
+			<method name="OnDecrement"/>
+			<method name="OnDecrement"/>
+			<method name="OnIncrement"/>
+			<method name="OnIncrement"/>
+		</type>
+	</assembly>
+</linker>

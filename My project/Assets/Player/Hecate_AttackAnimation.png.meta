@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 55de1e7015baba14aa9e2fb87d32e5f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6806568849502251253
+    second: Hecate_AttackAnimation_0
+  - first:
+      213: -2050410403606220131
+    second: Hecate_AttackAnimation_1
+  - first:
+      213: 7638216196205054049
+    second: Hecate_AttackAnimation_2
+  - first:
+      213: -8839483274164266231
+    second: Hecate_AttackAnimation_3
+  - first:
+      213: -8088147485091913343
+    second: Hecate_AttackAnimation_4
+  - first:
+      213: 9198097137890592542
+    second: Hecate_AttackAnimation_5
+  - first:
+      213: 1923948342096823170
+    second: Hecate_AttackAnimation_6
+  - first:
+      213: -4979304226715047643
+    second: Hecate_AttackAnimation_7
+  - first:
+      213: -1653750676921806213
+    second: Hecate_AttackAnimation_8
+  - first:
+      213: -7672757004317073425
+    second: Hecate_AttackAnimation_9
+  - first:
+      213: -3504692270668614836
+    second: Hecate_AttackAnimation_10
+  - first:
+      213: 649120863234740619
+    second: Hecate_AttackAnimation_11
+  - first:
+      213: 4586539292769637374
+    second: Hecate_AttackAnimation_12
+  - first:
+      213: 1780293876592635770
+    second: Hecate_AttackAnimation_13
+  - first:
+      213: 2826424558358069252
+    second: Hecate_AttackAnimation_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hecate_AttackAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 22
+        width: 33
+        height: 26
+      alignment: 9
+      pivot: {x: 0.65132856, y: 0.29377687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f822dd4e4ac57e50800000000000000
+      internalID: 6806568849502251253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hecate_AttackAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 22
+        width: 33
+        height: 26
+      alignment: 9
+      pivot: {x: 0.6525546, y: 0.29004294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d923949f99a7b83e0800000000000000
+      internalID: -2050410403606220131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hecate_AttackAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 22
+        width: 33
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6447361, y: 0.3132733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16800745925600a60800000000000000
+      internalID: 7638216196205054049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hecate_AttackAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 22
+        width: 39
+        height: 30
+      alignment: 9
+      pivot: {x: 0.55121946, y: 0.28396943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b9e65bbc8d35580800000000000000
+      internalID: -8839483274164266231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hecate_AttackAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 22
+        width: 46
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4665846, y: 0.28896734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181a02417b021cf80800000000000000
+      internalID: -8088147485091913343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hecate_AttackAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 22
+        width: 51
+        height: 26
+      alignment: 9
+      pivot: {x: 0.41996437, y: 0.32338297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28302e8d2dc33ba10800000000000000
+      internalID: 1923948342096823170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hecate_AttackAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 19
+        width: 50
+        height: 29
+      alignment: 9
+      pivot: {x: 0.42736757, y: 0.3959973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7293037582bc09e0800000000000000
+      internalID: -1653750676921806213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hecate_AttackAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 19
+        width: 46
+        height: 29
+      alignment: 9
+      pivot: {x: 0.46641275, y: 0.3933446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c437dbfc2f4dc5fc0800000000000000
+      internalID: -3504692270668614836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hecate_AttackAnimation_12
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 19
+        width: 43
+        height: 29
+      alignment: 9
+      pivot: {x: 0.497428, y: 0.40085858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3d7edaf29a6af30800000000000000
+      internalID: 4586539292769637374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hecate_AttackAnimation_13
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 21
+        width: 37
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5806967, y: 0.3510755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f6b1e29dfd4b810800000000000000
+      internalID: 1780293876592635770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3cdcd8794d91fbd47971a860948910f3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Hecate_AttackAnimation_0: 6806568849502251253
+      Hecate_AttackAnimation_1: -2050410403606220131
+      Hecate_AttackAnimation_10: -3504692270668614836
+      Hecate_AttackAnimation_11: 649120863234740619
+      Hecate_AttackAnimation_12: 4586539292769637374
+      Hecate_AttackAnimation_13: 1780293876592635770
+      Hecate_AttackAnimation_14: 2826424558358069252
+      Hecate_AttackAnimation_2: 7638216196205054049
+      Hecate_AttackAnimation_3: -8839483274164266231
+      Hecate_AttackAnimation_4: -8088147485091913343
+      Hecate_AttackAnimation_5: 9198097137890592542
+      Hecate_AttackAnimation_6: 1923948342096823170
+      Hecate_AttackAnimation_7: -4979304226715047643
+      Hecate_AttackAnimation_8: -1653750676921806213
+      Hecate_AttackAnimation_9: -7672757004317073425
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
